@@ -1,0 +1,1 @@
+{"name":"Local: U558844","url":"d:\\code\\previous_exam\\2025_lanqiu\\U558844.cpp","tests":[{"id":1749574581542,"input":"4\n3\n3 2 1\n4\n2 2 1 1\n2\n2 2\n7\n6 2 2 1 1 1 1","output":"1\n2\n0\n24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\2025_lanqiu\\U558844.cpp","group":"local","local":true}

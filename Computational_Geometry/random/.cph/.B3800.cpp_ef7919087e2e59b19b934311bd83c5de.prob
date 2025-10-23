@@ -1,0 +1,1 @@
+{"name":"Local: B3800","url":"d:\\code\\Computational_Geometry\\random\\B3800.cpp","tests":[{"id":1746519040701,"input":"3\n0 0 0\n-3 3 -1\n-6 11 -6","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Computational_Geometry\\random\\B3800.cpp","group":"local","local":true}

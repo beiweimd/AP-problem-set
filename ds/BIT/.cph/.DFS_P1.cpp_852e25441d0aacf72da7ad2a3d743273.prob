@@ -1,0 +1,1 @@
+{"name":"Local: DFS_P1","url":"d:\\code\\ds\\BIT\\DFS_P1.cpp","tests":[{"id":1760608517079,"input":"5 5\n1 2\n2 3\n2 4\n3 5\n1 2 3 4 5\n2 1\n2 3\n1 2 10\n2 1\n2 3\n","output":"15 1\n8 6\n23 1\n8 14\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\BIT\\DFS_P1.cpp","group":"local","local":true}

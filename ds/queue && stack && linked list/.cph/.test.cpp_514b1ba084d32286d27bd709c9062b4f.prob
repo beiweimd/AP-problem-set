@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"d:\\code\\ds\\queue && stack && linked list\\test.cpp","tests":[{"id":1751621838196,"input":"5 2\n1  \n2  \n3  \n4  \n5  ","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\queue && stack && linked list\\test.cpp","group":"local","local":true}

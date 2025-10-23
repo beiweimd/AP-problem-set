@@ -1,0 +1,41 @@
+// ！！！！！！！！！！！！！！！！！！！！！！！！！！！计算几何不要使用abs 使用fabs！！！！！！
+#include <bits/stdc++.h>
+typedef long long ll;
+typedef long double db;
+const ll mod=1e9+7;
+const db pi=acos(-1);
+const db eps=1e-10;
+const int maxn=3e5;
+const ll INF=1e17;
+using namespace std;
+int n,m,k,l,r;
+ll a[maxn],val[maxn],qz[maxn];
+ll query(int lef,int rig){
+    return k+qz[rig]-qz[lef];
+}
+void slove(){
+    cin>>n>>m;
+    for(int i=1;i<=n;i++){
+        cin>>a[i];
+        val[i]=a[i]-a[i-1];
+        val[1]=0;
+        qz[i]=qz[i-1]+max(0ll,val[i]);
+    } 
+    cin>>k;
+    while(m--){
+        cin>>l>>r;
+        cout<<query(l,r)<<"\n";
+    }
+	return;
+}
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int t=1;
+    //cin>>t;
+    while(t--){
+		slove();
+    }
+    return (0-0);
+}

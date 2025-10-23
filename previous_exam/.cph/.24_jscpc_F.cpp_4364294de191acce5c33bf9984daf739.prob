@@ -1,0 +1,1 @@
+{"name":"Local: 24_jscpc_F","url":"d:\\code\\previous_exam\\24_jscpc_F.cpp","tests":[{"id":1748620636892,"input":"5 2\n1 1024 2048 3 5\n","output":"512.500000 KiBps\n1.500000 MiBps\n1.001465 MiBps\n4.000000 KiBps\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\24_jscpc_F.cpp","group":"local","local":true}

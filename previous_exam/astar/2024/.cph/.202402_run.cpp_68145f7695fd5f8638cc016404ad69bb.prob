@@ -1,0 +1,1 @@
+{"name":"Local: 202402_run","url":"d:\\code\\previous_exam\\astar\\2024\\202402_run.cpp","tests":[{"id":1753887822011,"input":"3","output":"8"},{"id":1753895487089,"input":"10000000","output":"424046265"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\astar\\2024\\202402_run.cpp","group":"local","local":true}

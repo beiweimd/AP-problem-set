@@ -1,0 +1,1 @@
+{"name":"Local: poj3067","url":"d:\\code\\ds\\BIT\\poj3067.cpp","tests":[{"id":1760775911502,"input":"1\n3 4 4\n1 4\n2 3\n3 2\n3 1","output":"Test case 1: 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\BIT\\poj3067.cpp","group":"local","local":true}

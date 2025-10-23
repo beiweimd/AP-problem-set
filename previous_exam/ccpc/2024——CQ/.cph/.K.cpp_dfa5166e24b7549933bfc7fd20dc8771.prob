@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\code\\previous_exam\\ccpc\\2024——CQ\\K.cpp","tests":[{"id":1757855236021,"input":"2\n20\n01\n","output":"0"},{"id":1757855242038,"input":"3\n102\n011\n","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\ccpc\\2024——CQ\\K.cpp","group":"local","local":true}

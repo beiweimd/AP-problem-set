@@ -1,0 +1,1 @@
+{"name":"Local: P11430","url":"d:\\code\\dp\\knapsack_DP\\P11430.cpp","tests":[{"id":1761137657248,"input":"3 10\n2 3 5\n5 1 5\n3 2 5","output":"25"},{"id":1761137695988,"input":"4 13\n0 6 5\n0 3 4\n0 2 3\n0 4 4","output":"19"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\dp\\knapsack_DP\\P11430.cpp","group":"local","local":true}

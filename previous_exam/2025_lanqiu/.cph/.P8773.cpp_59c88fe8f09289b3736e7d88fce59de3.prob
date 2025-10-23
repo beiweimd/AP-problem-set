@@ -1,0 +1,1 @@
+{"name":"Local: P8773","url":"d:\\code\\previous_exam\\2025_lanqiu\\P8773.cpp","tests":[{"id":1749220624246,"input":"4 4 1\n1 2 3 4\n1 4\n1 2\n2 3\n3 3","output":"yes\nno\nyes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\2025_lanqiu\\P8773.cpp","group":"local","local":true}

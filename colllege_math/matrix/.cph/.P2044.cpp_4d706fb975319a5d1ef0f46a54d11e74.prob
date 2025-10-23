@@ -1,0 +1,1 @@
+{"name":"Local: P2044","url":"d:\\code\\colllege_math\\matrix\\P2044.cpp","tests":[{"id":1754042757237,"input":"11 8 7 1 5 3","output":"2"},{"id":1754064111788,"input":"2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\colllege_math\\matrix\\P2044.cpp","group":"local","local":true}

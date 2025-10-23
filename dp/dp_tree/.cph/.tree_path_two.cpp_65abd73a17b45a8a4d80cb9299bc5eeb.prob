@@ -1,0 +1,1 @@
+{"name":"Local: tree_path_two","url":"d:\\code\\2025_icpc_nanchang_tencent\\jou_xcpc\\dp\\dp_tree\\tree_path_two.cpp","tests":[{"id":1745942237308,"input":"5 100\n1 1 2 2\n","output":"10\n12\n6\n7\n7\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\2025_icpc_nanchang_tencent\\jou_xcpc\\dp\\dp_tree\\tree_path_two.cpp","group":"local","local":true}

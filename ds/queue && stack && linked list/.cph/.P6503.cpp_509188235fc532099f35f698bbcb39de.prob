@@ -1,0 +1,1 @@
+{"name":"Local: P6503","url":"d:\\code\\ds\\queue && stack && linked list\\P6503.cpp","tests":[{"id":1752244496813,"input":"3\n1\n2\n3","output":"4"},{"id":1752244501131,"input":"4\n7\n5\n7\n5","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\queue && stack && linked list\\P6503.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 05","url":"d:\\code\\previous_exam\\astar\\2024\\2023\\05.cpp","tests":[{"id":1754734579066,"input":"3\n3 4\n4 5\n2 7","output":"3\n4\n4"},{"id":1754734899889,"input":"1\n1 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\astar\\2024\\2023\\05.cpp","group":"local","local":true}

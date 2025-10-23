@@ -1,0 +1,1 @@
+{"name":"Local: I","url":"d:\\code\\previous_exam\\2025 newcode_holiday\\7\\I.cpp","tests":[{"id":1754931647480,"input":"3\n1 1\n5\n2 2\n1 2\n10000 9\n1 2 3 4 5 6 7 8 9","output":"5\n848507702\n463950893"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\2025 newcode_holiday\\7\\I.cpp","group":"local","local":true}

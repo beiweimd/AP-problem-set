@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"d:\\code\\previous_exam\\2025fhcpc\\G.cpp","tests":[{"id":1752397438137,"input":"6 2\n3 2 4 5 3 6\n2\n2 4\n3 6","output":"5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\2025fhcpc\\G.cpp","group":"local","local":true}

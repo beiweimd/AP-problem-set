@@ -1,0 +1,1 @@
+{"name":"Local: HDU - 3486","url":"d:\\code\\ds\\st && segment tree\\HDU - 3486.cpp","tests":[{"id":1760071932841,"input":"11 300\n7 100 7 101 100 100 9 100 100 110 110\n-1 -1\n","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\st && segment tree\\HDU - 3486.cpp","group":"local","local":true}

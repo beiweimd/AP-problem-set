@@ -1,0 +1,1 @@
+{"name":"Local: POJ - 2019 ","url":"d:\\code\\ds\\st && segment tree\\POJ - 2019 .cpp","tests":[{"id":1760085006198,"input":"5 3 1\n5 1 2 6 3\n1 3 5 2 7\n7 2 4 6 1\n9 9 8 6 5\n0 6 9 3 9\n1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\st && segment tree\\POJ - 2019 .cpp","group":"local","local":true}

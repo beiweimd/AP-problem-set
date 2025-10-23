@@ -1,0 +1,1 @@
+{"name":"Local: HDU - 4006","url":"d:\\code\\ds\\Disjoint Set Union and Priority_queue\\HDU - 4006.cpp","tests":[{"id":1758691400288,"input":"8 3\nI 1\nI 2\nI 3\nQ\nI 5\nQ\nI 4\nQ\n","output":"1\n2\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\Disjoint Set Union and Priority_queue\\HDU - 4006.cpp","group":"local","local":true}

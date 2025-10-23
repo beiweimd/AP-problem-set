@@ -1,0 +1,1 @@
+{"name":"Local: HDU - 2874","url":"d:\\code\\ds\\st && segment tree\\HDU - 2874.cpp","tests":[{"id":1760608896407,"input":"5 3 2\n1 3 2\n2 4 3\n5 2 3\n1 4\n4 5","output":"Not connected\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\st && segment tree\\HDU - 2874.cpp","group":"local","local":true}

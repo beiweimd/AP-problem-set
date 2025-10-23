@@ -1,0 +1,1 @@
+{"name":"Local: gauss","url":"d:\\code\\colllege_math\\gauss.cpp","tests":[{"id":1747414929231,"input":"3\n2 -1 1 1\n4 1 -1 5\n1 1 1 0","output":"x1=1.00\nx2=0.00\nx3=-1.00\n"},{"id":1747417924485,"input":"2\n0 2 3\n0 0 0","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\colllege_math\\gauss.cpp","group":"local","local":true}

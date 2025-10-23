@@ -1,0 +1,1 @@
+{"name":"Local: P1939","url":"d:\\code\\colllege_math\\matrix\\P1939.cpp","tests":[{"id":1753979888207,"input":"3\n6\n8\n10\n","output":"4\n9\n19\n"},{"id":1753980131282,"input":"1\n7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\colllege_math\\matrix\\P1939.cpp","group":"local","local":true}

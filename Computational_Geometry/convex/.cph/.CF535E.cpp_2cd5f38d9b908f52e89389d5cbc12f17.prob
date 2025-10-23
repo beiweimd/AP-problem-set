@@ -1,0 +1,1 @@
+{"name":"Local: CF535E","url":"d:\\code\\Computational_Geometry\\convex\\CF535E.cpp","tests":[{"id":1753866858270,"input":"3\n1 3\n2 2\n3 1\n","output":"1 2 3 \n"},{"id":1753867030330,"input":"3\n1 2\n1 1\n2 1\n","output":"1 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\Computational_Geometry\\convex\\CF535E.cpp","group":"local","local":true}

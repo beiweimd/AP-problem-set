@@ -1,0 +1,1 @@
+{"name":"Local: 25_H","url":"d:\\code\\previous_exam\\jscpc\\25_H.cpp","tests":[{"id":1749796286218,"input":" 3\n 4 1\n aabb\n 5 2\n abcab\n 7 3\n abcdece","output":"3\n6\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\previous_exam\\jscpc\\25_H.cpp","group":"local","local":true}
