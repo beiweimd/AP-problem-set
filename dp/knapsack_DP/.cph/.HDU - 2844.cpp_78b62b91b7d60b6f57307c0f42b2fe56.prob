@@ -1,0 +1,1 @@
+{"name":"Local: HDU - 2844","url":"d:\\code\\dp\\knapsack_DP\\HDU - 2844.cpp","tests":[{"id":1761321549039,"input":"3 10\n1 2 4 2 1 1\n2 5\n1 4 2 1\n0 0\n","output":"8\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\dp\\knapsack_DP\\HDU - 2844.cpp","group":"local","local":true}
