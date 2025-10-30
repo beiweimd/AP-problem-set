@@ -1,0 +1,1 @@
+{"name":"Local: P13982","url":"d:\\code\\ds\\block&&modui\\Libreoj-9\\P13982.cpp","tests":[{"id":1761726254980,"input":"7\n1 2 2 3 9 3 2\n0 1 3 1\n2 1 3 1\n1 1 4 4\n0 1 7 2\n1 2 6 4\n1 1 6 5\n2 2 6 4","output":"3\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\ds\\block&&modui\\Libreoj-9\\P13982.cpp","group":"local","local":true}
