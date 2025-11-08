@@ -1,0 +1,1 @@
+{"name":"Local: HDU - 3506","url":"d:\\code\\dp\\interval_DP\\HDU - 3506.cpp","tests":[{"id":1762445739341,"input":"8\n5 2 4 7 6 1 3 9\n","output":"105"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\dp\\interval_DP\\HDU - 3506.cpp","group":"local","local":true}
